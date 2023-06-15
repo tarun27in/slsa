@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com///github/internal/handler"
+	"github.com/github/internal/handler"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 )
