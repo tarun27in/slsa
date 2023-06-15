@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com///github/internal/server"
+	"github.com/github/internal/server"
 )
 
 var (
